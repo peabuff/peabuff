@@ -9,6 +9,10 @@
 - 📫 How to reach me: You can contact me by email, Twitter, or my youtube channel. Links are in my bio. Cheers!
 
 
+This year, I aim to increase the stats below by improving my game development skills and sharing my knowledge with you all!
+
+
+[![Peabuff's github stats](https://github-readme-stats.vercel.app/api?username=peabuff)](https://github.com/peabuff/github-readme-stats)
 <!---
 peabuff/peabuff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
