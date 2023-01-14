@@ -12,7 +12,8 @@
 This year, I aim to increase the stats below by improving my game development skills and sharing my knowledge with you all!
 
 
-[![Peabuff's github stats](https://github-readme-stats.vercel.app/api?username=peabuff)](https://github.com/peabuff/github-readme-stats)
+<a href="https://github.com/peabuff/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=peabuff&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Peabuff's github stats" /></a> 
+
 <!---
 peabuff/peabuff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
